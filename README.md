@@ -1,4 +1,4 @@
-Sample release from [TravisCI](https://travis-ci.org/)
+TravisCI for golang
 ====
 
 [![Build Status](https://travis-ci.org/tcnksm-sample/travis-golang.svg?branch=master)](https://travis-ci.org/tcnksm-sample/travis-golang)
